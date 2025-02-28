@@ -28,8 +28,8 @@ The **Jewelry Management System** is a web-based application designed to manage 
 3. Import the provided SQL file (`shop_db.sql`) into the database using phpMyAdmin.
 
 ### 3. Project Setup
-1. Copy the project folder (`Jewelry-Management-System`) to `C:\xampp\htdocs\`.
-2. Open a web browser and navigate to `http://localhost/Jewelry-Management-System/`.
+1. Copy the project folder (`Jwellary-Managament-system`) to `C:\xampp\htdocs\`.
+2. Open a web browser and navigate to `http://localhost/Jwellary-Managament-system/`.
 
 ## Usage Instructions
 1. Log in as an administrator to manage products and sales.
